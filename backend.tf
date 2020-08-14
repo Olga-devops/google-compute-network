@@ -1,4 +1,4 @@
 data "google_compute_backend_bucket" "my-backend-bucket" {
-  name = "my-backend"
+  name = "olga-backend"
   project = "Olga-test"
 }
